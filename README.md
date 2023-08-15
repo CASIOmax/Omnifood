@@ -1,6 +1,3 @@
-# Omnifood
-Omnifood "A healthy meal delivered to your door, every single day"
-
 # <a href="https://0mnif00d.netlify.app" target="_blank">Omnifood</a>
 Single page website built as a final project for my old HTML/CSS course. Omnifood is a 
 fictional company focused on providing AI-based meals through a subscription service.
